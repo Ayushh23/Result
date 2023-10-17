@@ -50,7 +50,14 @@ background: linear-gradient(to right, rgba(0, 0.4, 0.4, 0), rgba(0, 0, 0, 0));
 }
 
 #Result {
-    font-size: 40px;
+    font-size: 34px;
+    color: rgb(7, 97, 97);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#result2 {
+    font-size: 25px;
     color: rgb(7, 97, 97);
     display: flex;
     justify-content: center;
