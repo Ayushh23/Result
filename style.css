@@ -87,6 +87,9 @@ background: linear-gradient(to right, rgba(0, 0.4, 0.4, 0), rgba(0, 0, 0, 0));
 tr {
     margin: 40px;
 }
+tbody tr td{
+    gap: 10px;
+}
 .all3 {
     height: 900px;
     width: 450px;
