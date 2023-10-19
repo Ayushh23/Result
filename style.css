@@ -188,3 +188,17 @@ tbody tr td{
     transition-delay: .05s;
     opacity: 100%;
 }
+.all10{
+    height: 400px;
+    width: 450px;
+    border: 4px solid rgb(36, 95, 154);
+    border-radius: 5px;
+    background-color: rgb(221, 168, 104);
+    opacity: 80%;
+}
+.all10:hover {
+    scale: 1.05;
+    transition-duration: 0.8s;
+    transition-delay: .05s;
+    opacity: 100%;
+}
